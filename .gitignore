@@ -64,6 +64,9 @@ artifacts/
 # StyleCop
 StyleCopReport.xml
 
+#expriencia
+git config --global core.C:\Users\tiago\source\repos\TiagoKP61\fact\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug ~/.gitignore_global
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
